@@ -11,7 +11,7 @@ module.exports = {
     description: `Utah Pumpkins is a place to show off awesome pumpkin carving ideas and get inspiration for your own halloween fun.`,
     siteUrl: `https://www.utahpumpkins.com`,
     social: {
-      twitter: `cadekynaston`,
+      twitter: `smartman1234`,
     },
   },
   plugins: [
